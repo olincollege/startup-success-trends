@@ -1,1 +1,9 @@
-
+Company Name: Applied
+Industry Type: ['SaaS', 'Recruiting', 'Enterprise Software']
+Funding by series: [('Seed', '$3M')]
+Company Name: Hex
+Industry Type: ['Analytics', 'Big Data', 'SaaS']
+Funding by series: [('Series B', '$52M')]
+Company Name: Webflow
+Industry Type: ['Consumer', 'Web Development', 'SaaS']
+Funding by series: [('Series C', '$120M')]
