@@ -9,12 +9,19 @@ Install the latest version from the git repository using pip:
 `$ pip install git+https://github.com/alirezamika/autoscraper.git`
 
 This project implements two packages to that require a local download: BeautifulSoup and matlibplot.
+
 Install BeautifulSoup:
+
 `$ pip install beautifulsoup4`
+
 How to use:
+
 https://beautiful-soup-4.readthedocs.io/en/latest/
 
 install matlibplot:
+
 `$ pip install matplotlib`
+
 How to use:
+
 https://matplotlib.org/3.5.1/tutorials/introductory/pyplot.html
