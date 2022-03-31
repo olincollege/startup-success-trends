@@ -4,22 +4,21 @@ This project is made for web scraping of all the startups in topstartups.io. It 
 
 ## How to use:
 
-You can either use the webscraper file alone to scrape data, or you could use the whole repo as a kind of framework to build your own personal webscraper upon. The latter will require modifying the code.
+You can either use the webscraper file alone to scrape data from topstartups.io, or you could use the whole repo as a kind of framework to build your own personal webscraper upon. The latter will require modifying the code to match the HTML of the website you want to scrape.
 
 ### Features
 
 1. Scrape multiple pages
 2. Store scraped data as JSON for easy parsing
-
-This project is compatible with python 3.
+3. Compatible with Python 3.
 
 ## Installations
 
-Install the latest version from the git repository using pip:
+Install the latest version from the git repository using `pip`:
 
-`$ pip install git+https://github.com/alirezamika/autoscraper.git`
+`$ pip install git+https://github.com/olincollege/startup-success-trends`
 
-This project implements two packages to that require a local download: BeautifulSoup and matlibplot.
+This project implements two packages to that require a local download: `BeautifulSoup` and `matlibplot`.
 
 Install BeautifulSoup:
 
